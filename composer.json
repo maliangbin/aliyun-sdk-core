@@ -1,0 +1,14 @@
+{
+    "name": "william-ma/aliyun-sdk-core",
+    "description": "This is aliyun-sdk-core",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "马良彬",
+            "email": "maliangbin@hoge.cn"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
